@@ -1,0 +1,6 @@
+{
+  "name": "Library Catalogue ADT & Search Performance Analyzer",
+  "description": "University library catalogue management and C ADT search performance analysis dashboard for CSA 0306 Data Structures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
